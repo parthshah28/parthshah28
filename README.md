@@ -3,17 +3,17 @@
 
 - I'm a Data Science Practitioner who loves to uncover the hidden facts and meaningful insights from messy data.
 
+- Languages & Apptitudes :- **Python | R | SQL | Tableau | AWS | TensorFlow/Keras | Numpy/Pandas/Matplotlib/Seaborn/Sci-Kit learn | Flask | Streamlit | C | Git | HTML/CSS | Microsoft PowerBI**
+
 - I’m currently learning **Django, julia, PySpark, Hadoop, SAS**
 
-- I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data
+- I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data.
 
-- Some of my projects are available at my [Github](https://github.com/parthshah28?tab=repositories)
+-  Here is my [Portfolio](https://parth-shah-1.jimdosite.com/)
 
 - Sometimes I write articles on [Medium](https://medium.com/@shahp7210)
 
-- How to reach me **shahp7210@gmail.com**
-
-- Here is my [Portfolio](https://parth-shah-1.jimdosite.com/) 
+- How to reach me **shahp7210@gmail.com** 
 
 - Fun fact **If you catch me outside of work, I'm an adventurous traveler.**
 
