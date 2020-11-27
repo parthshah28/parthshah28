@@ -13,6 +13,8 @@
 
 - How to reach me **shahp7210@gmail.com**
 
+- Here is my [Portfolio](https://parth-shah-1.jimdosite.com/) 
+
 - Fun fact **If you catch me outside of work, I'm an adventurous traveler.**
 
 
