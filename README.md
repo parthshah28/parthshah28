@@ -15,7 +15,7 @@
 
 - How to reach me **shahp7210@gmail.com** 
 
-- Fun fact **If you catch me outside of work, I'm an adventurous traveler.**
+- Fun fact **If you catch me outside of work, I'm an adventurous traveller.**
 
 
 
