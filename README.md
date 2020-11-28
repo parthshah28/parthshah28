@@ -5,7 +5,7 @@
 
 - Languages & Apptitudes :- **Python | R | SQL | Tableau | AWS | TensorFlow/Keras | Numpy/Pandas/Matplotlib/Seaborn/Sci-Kit learn | Flask | Streamlit | C | Git | HTML/CSS | Microsoft PowerBI**
 
-- I’m currently learning **Django, julia, PySpark, Hadoop, SAS**
+- I’m currently learning **Julia, PySpark, Hadoop, SAS**
 
 - I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data.
 
